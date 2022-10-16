@@ -200,7 +200,7 @@ body.touch .sub-menu__list.open{
 }
 
 .check {
-	background-image: url(/img/seacost.jpg);
+	background-image: url(../img/seacost.jpg);
 	height: 761px;
 	background-repeat: no-repeat;
     background-size: cover;
@@ -281,7 +281,7 @@ body.touch .sub-menu__list.open{
 	&__btn {
 		color: $color_2;
 		border-color: $color_2;
-		font-size: 1.7rem;
+		font-size: 1.5rem;
 		padding: 7px 15px;
 		width: 202px;
 		padding-top: 3px;
