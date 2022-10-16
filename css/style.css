@@ -232,7 +232,7 @@ body.touch .sub-menu__list.open {
 }
 
 .check {
-  background-image: url(https://maria-digital.github.io/Photostudio/img/seacost.jpg);
+  background-image: url('/img/seacost.jpg');
   height: 761px;
   background-repeat: no-repeat;
   background-size: cover;
