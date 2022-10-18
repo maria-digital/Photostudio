@@ -781,6 +781,7 @@ body.touch .sub-menu__list.open {
 @media (max-width: 420px) {
   .title, .another {
     margin: 0;
+    width: 300px;
   }
 
   .header__container {
@@ -791,11 +792,38 @@ body.touch .sub-menu__list.open {
     padding: 100px 65px 30px 0px;
   }
 
+  .check__block {
+    width: 300px;
+    margin-top: 20px;
+    margin-left: 25px;
+  }
+  .check__block_title {
+    width: 300px;
+  }
+
+  .title, .another {
+    width: 335px;
+  }
+
+  .title p {
+    width: 100%;
+    text-align: center;
+    margin-left: 10px;
+  }
+
   .another__container img {
     width: 100%;
+    margin-left: 13px;
+  }
+
+  .another p {
+    width: 100%;
+    text-align: center;
+    margin-left: 10px;
   }
 
   .gallery {
     margin-top: 30px;
+    max-width: 368px;
   }
 }
